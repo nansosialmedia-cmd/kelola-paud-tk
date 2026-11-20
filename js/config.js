@@ -1,0 +1,1 @@
+window.APP_CONFIG = { GAS_URL: 'https://script.google.com/macros/s/AKfycbxLQyDgSDNH2zNxi8Kz35Vjx2CmzalpEf5dUtKNTUvSmTD7uAY2oq0v182NG7KXjYZ-/exec' };
